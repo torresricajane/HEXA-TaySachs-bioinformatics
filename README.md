@@ -6,7 +6,7 @@
 
 ## Purpose
 
-The purpose of this activity is to locate the **HEXA gene** using the UCSC Genome Browser and learn about its location, chromosome, genomic coordinates, DNA strand, and gene size. It also helps us understand how bioinformatics tools can be used to study genes related to human diseases.
+The purpose of this activity is to locate the **HEXA gene** using the UCSC Genome Browser and learn about its location, chromosome, genomic coordinates, DNA strand, and gene size. It also helps to understand how bioinformatics tools can be used to study genes related to human diseases.
 
 ## Part B – Gene Location in the UCSC Genome Browser
 
