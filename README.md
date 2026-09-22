@@ -1,1 +1,1 @@
-# -HEXA-TaySachs-bioinformatics
+# HEXA-TaySachs-bioinformatics
