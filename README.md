@@ -51,3 +51,31 @@ NM_000520.6 (RefSeq); corresponding GENCODE transcript ENST00000268097.10
 
 **e. In 2-3 sentences, explain why strong conservation can suggest biological importance.** 
 - Strong conservation across different species suggests that a DNA sequence has been retained over evolutionary time. This can indicate that the region has an important biological function because changes in functionally important sequences may be less tolerated.
+
+## PART E - Selected ClinVar Variant
+
+**a. Gene**
+- HEXA
+
+**b. Variant name/HGVS description**
+- NM_000520.6(HEXA):c.1274_1277dup (p.Tyr427fs)
+
+**c. rsID or ClinVar Variation ID/VCV accession, if available**
+- rs387906309; ClinVar Variation ID 3889; VCV000003889.224
+
+**d. Chromosome and genomic position, if provided**
+- chr15:72,346,579–72,346,580 (GRCh38)
+
+**e. Associated condition/disease**
+- Tay-Sachs disease
+
+**f. Clinical significance exactly as reported by ClinVar**
+- Pathogenic
+
+**g. Review status, if shown**
+- The variant has a two-star (★★) ClinVar review status.
+
+**h. ClinVar record URL**
+- https://www.ncbi.nlm.nih.gov/clinvar/variation/3889/
+
+
