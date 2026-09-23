@@ -24,30 +24,30 @@ The purpose of this activity is to locate the **HEXA gene** using the UCSC Genom
 NM_000520.6 (RefSeq); corresponding GENCODE transcript ENST00000268097.10
 
 **a. Number of exons you can identify in your selected transcript**
--14 exons
+- 14 exons
 
 **b. Whether multiple transcripts/isoforms are visible**
--Yes. There are multiple HEXA transcript models shown in the UCSC Genome Browser.
+- Yes. There are multiple HEXA transcript models shown in the UCSC Genome Browser.
 
 **c.  In your own words, explain the difference between an exon and an intron**
- -An exon is a part of a gene that stays in the mature RNA after splicing, while an intron is a region between exons that is removed during RNA splicing.
+ - An exon is a part of a gene that stays in the mature RNA after splicing, while an intron is a region between exons that is removed during RNA splicing.
  
 **d. Describe whether the introns generally appear longer or shorter than the exons in your gene**
- -The introns in the HEXA gene generally appear longer than the individual exons. In the UCSC Genome Browser, the exon regions appear as smaller blocks, while the regions connecting them are usually longer. This shows that the HEXA gene contains relatively short exons separated by longer intron regions. 
+ - The introns in the HEXA gene generally appear longer than the individual exons. In the UCSC Genome Browser, the exon regions appear as smaller blocks, while the regions connecting them are usually longer. This shows that the HEXA gene contains relatively short exons separated by longer intron regions. 
 
 ## PART D - UCSC Annotation Tracks
 
 **a. Which gene annotation track did you use?**
--I used the NCBI RefSeq (RefSeq Curated) gene annotation track. 
+- I used the NCBI RefSeq (RefSeq Curated) gene annotation track. 
 
 **b. Were ClinVar-related variant marks visible within or near your gene?**
--Yes. Multiple ClinVar-related variant marks were visible within and near the HEXA gene region. 
+- Yes. Multiple ClinVar-related variant marks were visible within and near the HEXA gene region. 
 
 **c. Were some regions more conserved than others?**
--Yes. Some regions showed stronger conservation signals than others in the Cons 100 Verts track. 
+- Yes. Some regions showed stronger conservation signals than others in the Cons 100 Verts track. 
 
 **d. Did conserved regions correspond mainly to exons, introns, both, or another region?**
--The conservation signals were present in both exon-associated and non-coding regions, although some stronger signals appeared around exon-associated regions.
+- The conservation signals were present in both exon-associated and non-coding regions, although some stronger signals appeared around exon-associated regions.
 
 **e. In 2-3 sentences, explain why strong conservation can suggest biological importance.** 
--Strong conservation across different species suggests that a DNA sequence has been retained over evolutionary time. This can indicate that the region has an important biological function because changes in functionally important sequences may be less tolerated.
+- Strong conservation across different species suggests that a DNA sequence has been retained over evolutionary time. This can indicate that the region has an important biological function because changes in functionally important sequences may be less tolerated.
